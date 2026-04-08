@@ -1,5 +1,5 @@
 set clipboard=unnamed
-set mouse=
+"set mouse=
 "neovim open terminal and the enter inster mode
 autocmd TermOpen * startinsert
 

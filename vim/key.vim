@@ -43,4 +43,3 @@ nnoremap <silent> < :HarpwnNext -1<CR>
 
 "neovim managers
 nnoremap <Leader>ml :Lazy<CR>
-nnoremap <Leader>mm :Mason<CR>
